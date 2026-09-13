@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+code/cache/
+sample_output.csv
+log.txt
+.venv/
+dataset/

@@ -1,0 +1,3 @@
+# Core engine uses only the Python standard library (3.10+).
+# Optional: offline OCR fallback for image evidence when no vision-LLM key is configured.
+rapidocr_onnxruntime>=1.2.3
